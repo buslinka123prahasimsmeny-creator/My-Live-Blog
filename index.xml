@@ -1,3 +1,9 @@
+MyLiveBlog/
+├─ index.html
+├─ feed.xml
+└─ updates/
+    ├─ 001.html
+    └─ 002.html
 <!DOCTYPE html>
 <html lang="cs">
 <head>
@@ -34,7 +40,6 @@
   </p>
 </body>
 </html>
-
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
