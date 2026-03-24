@@ -34,26 +34,27 @@
   </p>
 </body>
 </html>
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<channel>
-  <title>MyLiveBlog</title>
-  <link>https://buslinka123prahasimsmeny-creator.github.io/MyLiveBlog/</link>
-  <description>Živé novinky z MyLiveBlogu</description>
+  <channel>
+    <title>MyLiveBlog</title>
+    <link>https://buslinka123prahasimsmeny-creator.github.io/MyLiveBlog/</link>
+    <description>Živé novinky z MyLiveBlogu</description>
 
-  <item>
-    <title>První update</title>
-    <link>https://buslinka123prahasimsmeny-creator.github.io/MyLiveBlog/updates/001.html</link>
-    <description>Popis prvního updatu – například nové funkce bota.</description>
-    <pubDate>Wed, 24 Mar 2026 20:00:00 +0100</pubDate>
-  </item>
+    <item>
+      <title>První update</title>
+      <link>https://buslinka123prahasimsmeny-creator.github.io/MyLiveBlog/updates/001.html</link>
+      <description>Popis prvního updatu – například nové funkce bota.</description>
+      <pubDate>Wed, 24 Mar 2026 20:00:00 +0100</pubDate>
+    </item>
 
-  <item>
-    <title>Druhý update</title>
-    <link>https://buslinka123prahasimsmeny-creator.github.io/MyLiveBlog/updates/002.html</link>
-    <description>Popis druhého updatu – například nové role nebo oprava chyb.</description>
-    <pubDate>Thu, 25 Mar 2026 18:30:00 +0100</pubDate>
-  </item>
+    <item>
+      <title>Druhý update</title>
+      <link>https://buslinka123prahasimsmeny-creator.github.io/MyLiveBlog/updates/002.html</link>
+      <description>Popis druhého updatu – například nové role nebo oprava chyb.</description>
+      <pubDate>Thu, 25 Mar 2026 18:30:00 +0100</pubDate>
+    </item>
 
-</channel>
+  </channel>
 </rss>
